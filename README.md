@@ -9,3 +9,4 @@
 *reverse()
 *index(value)
 *count(value)
+*clear()
